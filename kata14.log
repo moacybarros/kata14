@@ -1,0 +1,49 @@
+2014-12-17 23:24:38 INFO  Kata14:37 - Execution started
+2014-12-17 23:24:38 INFO  Kata14:68 - Option menu creation.
+2014-12-17 23:24:38 INFO  Kata14:68 - Option menu creation.
+2014-12-17 23:24:38 INFO  Kata14:81 - Trigram loading started.
+2014-12-17 23:24:40 INFO  Shingler:127 - pg3005.txt completed.
+2014-12-17 23:24:40 INFO  Shingler:127 - pg20417.txt completed.
+2014-12-17 23:24:41 INFO  Shingler:127 - pg5000.txt completed.
+2014-12-17 23:24:41 INFO  Shingler:127 - newBook.txt completed.
+2014-12-17 23:24:42 INFO  Shingler:127 - pg4300.txt completed.
+2014-12-17 23:24:42 INFO  Kata14:88 - Text generation started.
+2014-12-17 23:24:45 WARN  TrigramDAOMemoryImpl:45 - There are no values for given key:ver end
+2014-12-17 23:24:45 INFO  Kata14:112 - Persisting new text to file: C:\Users\Moacy\Desktop\Globant-GAP\books\MOACY/output.txt
+2014-12-18 00:00:23 INFO  Kata14:112 - Persisting new text to file: /C:/Users/Moacy/Downloads/kata14/target/test-classes//output.txt
+2014-12-18 00:01:20 INFO  Kata14:88 - Text generation started.
+2014-12-18 00:01:20 INFO  Kata14:112 - Persisting new text to file: /C:/Users/Moacy/Downloads/kata14/target/test-classes//output.txt
+2014-12-18 00:02:05 INFO  Kata14:88 - Text generation started.
+2014-12-18 00:02:05 INFO  Kata14:112 - Persisting new text to file: /C:/Users/Moacy/Downloads/kata14/target/test-classes//output.txt
+2014-12-18 00:11:22 INFO  Kata14:88 - Text generation started.
+2014-12-18 00:11:22 INFO  Kata14:112 - Persisting new text to file: /C:/Users/Moacy/Downloads/kata14/target/test-classes//output.txt
+2014-12-18 00:11:47 INFO  Kata14:88 - Text generation started.
+2014-12-18 00:12:11 INFO  Kata14:112 - Persisting new text to file: /C:/Users/Moacy/Downloads/kata14/target/test-classes//output.txt
+2014-12-18 00:12:45 INFO  Kata14:88 - Text generation started.
+2014-12-18 00:12:45 INFO  Kata14:112 - Persisting new text to file: /C:/Users/Moacy/Downloads/kata14/target/test-classes//output.txt
+2014-12-18 00:26:56 WARN  TrigramDAOMemoryImpl:45 - There are no values for given key:wish i
+2014-12-18 00:28:08 WARN  TrigramDAOMemoryImpl:45 - There are no values for given key:wish i
+2014-12-18 00:29:20 WARN  TrigramDAOMemoryImpl:45 - There are no values for given key:wish i
+2014-12-18 00:30:18 WARN  TrigramDAOMemoryImpl:45 - There are no values for given key:wish i
+2014-12-18 00:30:46 WARN  TrigramDAOMemoryImpl:45 - There are no values for given key:wish i
+2014-12-18 00:35:34 WARN  TrigramDAOMemoryImpl:45 - There are no values for given key:wish i
+2014-12-18 00:55:31 INFO  Kata14:88 - Text generation started.
+2014-12-18 00:55:31 INFO  Kata14:112 - Persisting new text to file: /C:/Users/Moacy/Downloads/kata14/target/test-classes//output.txt
+2014-12-18 07:21:01 INFO  Kata14:88 - Text generation started.
+2014-12-18 07:21:01 INFO  Kata14:112 - Persisting new text to file: /C:/Users/Moacy/Downloads/kata14/target/test-classes//output.txt
+2014-12-18 08:51:06 INFO  Kata14:112 - Persisting new text to file: /home/moacybarros/Desktop/kata14_com_junit/kata14/target/test-classes//output.txt
+2014-12-18 08:51:06 INFO  Kata14:88 - Text generation started.
+2014-12-18 09:04:03 INFO  Kata14:112 - Persisting new text to file: /home/moacybarros/Desktop/kata14_com_junit/kata14/target/test-classes//output.txt
+2014-12-18 09:04:03 INFO  Kata14:88 - Text generation started.
+2014-12-18 09:06:42 INFO  Kata14:112 - Persisting new text to file: /home/moacybarros/Desktop/kata14_com_junit/kata14/target/test-classes//output.txt
+2014-12-18 09:06:42 INFO  Kata14:88 - Text generation started.
+2014-12-18 09:09:33 INFO  Kata14:112 - Persisting new text to file: /home/moacybarros/Desktop/kata14_com_junit/kata14/target/test-classes//output.txt
+2014-12-18 09:09:33 INFO  Kata14:88 - Text generation started.
+2014-12-18 10:11:35 INFO  Kata14:135 - Persisting new text to file: /home/moacybarros/Desktop/kata14_com_junit/kata14/target/test-classes//output.txt
+2014-12-18 10:11:35 INFO  Kata14:105 - Text generation started.
+2014-12-18 10:12:40 INFO  Kata14:135 - Persisting new text to file: /home/moacybarros/Desktop/kata14_com_junit/kata14/target/test-classes//output.txt
+2014-12-18 10:12:40 INFO  Kata14:105 - Text generation started.
+2014-12-18 10:44:40 INFO  Kata14:135 - Persisting new text to file: /home/moacybarros/Desktop/kata14_com_junit/kata14/target/test-classes//output.txt
+2014-12-18 10:44:40 INFO  Kata14:105 - Text generation started.
+2014-12-18 10:46:41 INFO  Kata14:135 - Persisting new text to file: /home/moacybarros/Desktop/kata14_com_junit/kata14/target/test-classes//output.txt
+2014-12-18 10:46:41 INFO  Kata14:105 - Text generation started.
